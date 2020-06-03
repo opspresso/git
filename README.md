@@ -8,9 +8,3 @@
 ```bash
 docker pull opspresso/git
 ```
-
-## version
-
-```
-ENV VERSION v0.1.2
-```
